@@ -18,8 +18,6 @@ This is a simple web crawler that crawls a website and returns a list of all the
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-```
 
 
 
