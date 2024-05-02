@@ -16,7 +16,6 @@ This is a simple web crawler that crawls a website and returns a list of all the
 
 ![View](image.png)
 
-## License
 
 
 
